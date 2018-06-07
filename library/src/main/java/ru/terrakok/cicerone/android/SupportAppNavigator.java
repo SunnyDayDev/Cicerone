@@ -8,8 +8,8 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.androidx.fragment.app.FragmentActivity;
-import android.androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentActivity;
+import androidx.fragment.app.FragmentManager;
 
 import ru.terrakok.cicerone.commands.BackTo;
 import ru.terrakok.cicerone.commands.Command;

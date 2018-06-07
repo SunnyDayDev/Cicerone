@@ -1,4 +1,4 @@
-package android.androidx.fragment.app;
+package androidx.fragment.app;
 
 import android.os.Bundle;
 

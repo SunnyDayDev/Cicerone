@@ -1,4 +1,4 @@
-package android.androidx.fragment.app;
+package androidx.fragment.app;
 
 /**
  * Created by Konstantin Tckhovrebov (aka @terrakok)
