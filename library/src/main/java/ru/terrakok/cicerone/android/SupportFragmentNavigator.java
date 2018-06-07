@@ -4,9 +4,9 @@
 
 package ru.terrakok.cicerone.android;
 
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentTransaction;
+import android.androidx.fragment.app.Fragment;
+import android.androidx.fragment.app.FragmentManager;
+import android.androidx.fragment.app.FragmentTransaction;
 
 import java.util.LinkedList;
 
